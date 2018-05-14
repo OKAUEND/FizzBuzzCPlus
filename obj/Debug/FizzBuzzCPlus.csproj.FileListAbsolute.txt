@@ -1,0 +1,7 @@
+d:\Users\DeExl\Documents\Visual Studio 2017\Projects\FizzBuzzCPlus\FizzBuzzCPlus\bin\Debug\FizzBuzzCPlus.exe.config
+d:\Users\DeExl\Documents\Visual Studio 2017\Projects\FizzBuzzCPlus\FizzBuzzCPlus\bin\Debug\FizzBuzzCPlus.exe
+d:\Users\DeExl\Documents\Visual Studio 2017\Projects\FizzBuzzCPlus\FizzBuzzCPlus\bin\Debug\FizzBuzzCPlus.pdb
+d:\Users\DeExl\Documents\Visual Studio 2017\Projects\FizzBuzzCPlus\FizzBuzzCPlus\obj\Debug\FizzBuzzCPlus.csprojResolveAssemblyReference.cache
+d:\Users\DeExl\Documents\Visual Studio 2017\Projects\FizzBuzzCPlus\FizzBuzzCPlus\obj\Debug\FizzBuzzCPlus.csproj.CoreCompileInputs.cache
+d:\Users\DeExl\Documents\Visual Studio 2017\Projects\FizzBuzzCPlus\FizzBuzzCPlus\obj\Debug\FizzBuzzCPlus.exe
+d:\Users\DeExl\Documents\Visual Studio 2017\Projects\FizzBuzzCPlus\FizzBuzzCPlus\obj\Debug\FizzBuzzCPlus.pdb
